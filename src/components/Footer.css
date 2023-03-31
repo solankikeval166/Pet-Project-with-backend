@@ -1,0 +1,32 @@
+.footer {
+    background-color: rgb(216, 187, 249);
+    color: black;
+    margin-top: 50px;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.icon {
+    margin: 0 30px;
+    font-size: 30px;
+    color: black;
+    transition: 0.1s ease-in-out;
+}
+
+.icon:hover {
+    color: #9c39ff;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 15px;
+}
